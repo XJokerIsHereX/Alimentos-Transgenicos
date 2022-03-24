@@ -1,0 +1,223 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: none;
+    list-style: none;
+}
+
+header, article, footer, {
+    display: block;
+}
+
+
+.H1 {
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+    background: #22a6b3;
+    color: #2f3640;
+
+}
+
+.H1 h1 {
+    border: 2px solid black;
+    padding: 10px;
+    margin: 15px;
+    text-align: center;
+    color: #f5f6fa;
+    font-family: 'Times New Roman', Times, serif;
+    background: #2f3640;
+}
+
+.H1 .S1 {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 15px;
+    text-align: left;
+    color: #f5f6fa;
+    background: #2f3640;
+}
+
+
+
+.Articulo1 {
+    padding: 20px;
+    margin: 15px;
+    border: 2px solid black;
+    background: #2d3436;
+}
+
+.Articulo1 section p {
+    font-size: large;
+    color: #dfe6e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.Pie1 {
+    padding: 20px;
+    margin: 15px;
+    list-style: none;
+    border: 2px solid black;
+    background: #576574;
+    display: inline-flex;
+
+}
+
+.Pie1 address a {
+    color: #dcdde1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.A1 {
+    color: aqua;
+    text-align: right;
+    list-style: none;
+}
+
+.A1 a {
+    color: #dcdde1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.B1 {
+    background: #c7ecee;
+}
+
+.Header2 {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    background-color: #a29bfe;
+
+}
+
+.Header2 h1 {
+    border: 1px solid black;
+    background: #636e72;
+    color: #dfe6e9;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 5px;
+    margin: 10px;
+}
+
+.Header2 h2 {
+    border: 1px solid black;
+    background: #636e72;
+    color: #dfe6e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    margin: 10px;
+}
+
+.Header2 time {
+    border: 1px solid black;
+    background: #636e72;
+    color: #dfe6e9;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 5px;
+    margin: 10px;
+}
+
+.Article2 {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    background-color: #00cec9;
+}
+
+.Section2 {
+    border: 2px solid white;
+    padding: 20px;
+    margin: 10px;
+    align-items: center;
+    background-color: #55efc4;
+}
+
+.Section2 h1 {
+    color: #2d3436;
+    font-family: 'Times New Roman', Times, serif;
+    border: 2px solid white;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.Section2 p {
+    color: #2d3436;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Pie2 {
+    border: 2px solid white;
+    list-style: none;
+}
+
+.l1, .l2 {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+}
+
+.Pie2 ul .l1 address a {
+    color: #2d3436;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Pie2 ul .l2 a {
+    color: #2d3436;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.Body2 {
+    background: #ffeaa7;
+}
+
+.Navegacion1 {
+    padding: 5px;
+    margin: 15px;
+    border: 1px solid black;
+    color: black;
+    background: #303952;
+
+}
+
+.Navegacion1 li {
+    display: inline-block;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 15px bold;
+    margin: 0px 20px;
+
+}
+
+.Navegacion1 ul li a {
+    color: white;
+    font-size: large;
+}
+
+.Body2 .Navegacion2 {
+    padding: 5px;
+    margin: 15px;
+    border: 1px solid black;
+    color: black;
+    background: #303952;
+
+}
+
+.Body2 .Navegacion2 li {
+    display: inline-block;
+    list-style: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font: 15px bold;
+    margin: 0px 20px;
+
+}
+
+.Body2 .Navegacion2 ul li a {
+    color: white;
+    font-size: large;
+}

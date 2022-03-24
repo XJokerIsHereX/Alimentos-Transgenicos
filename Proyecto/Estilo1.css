@@ -1,0 +1,111 @@
+* {
+    padding: 0px;
+    font-family: none;
+    margin: 0px;
+}
+
+body {
+    background: #CAD3C8;
+}
+
+header, footer, article, nav, body {
+    display: block;
+}
+
+nav {
+    padding: 5px;
+    margin: 15px;
+    border: 1px solid black;
+    color: black;
+    background: #303952;
+}
+
+nav li {
+    display: inline-block;
+    list-style: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: 15px bold;
+    margin: 0px 20px;
+}
+
+nav li a {
+    color: white;
+    font-size: large;
+}
+
+article section h1 {
+    border: 1px solid black;
+    font-family: 'Times New Roman', Times, serif;
+    background: #2f3542;
+    color: #F8EFBA;
+    display: inline-flex;
+    align-items: center;
+}
+
+article section {
+    border: 1px solid black;
+    background: #70a1ff;
+    color: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    margin: 30;
+}
+
+article {
+    border: 1px solid black;
+    margin: 30px;
+}
+
+article section p {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 20px;
+    background: #2f3542;
+    color: #ced6e0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+header h1 {
+    padding: 5px;
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    background: #303952;
+    color: white;
+    border: 1px solid black;
+    display: inline-block;
+}
+
+header time {
+    border: 1px solid black;
+    margin: 15px;
+    padding: 5px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #303952;
+    color: white;
+}
+
+.D1 {
+    border: 1px solid black;
+    margin: 15px;
+    background: #25CCF7;
+}
+
+article section address {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 20px;
+}
+
+
+footer address {
+    margin: 30px;
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif padding: 30px;
+    background: #2C3A47;
+    color: white;
+}
+
+footer address a {
+    color: white;
+}

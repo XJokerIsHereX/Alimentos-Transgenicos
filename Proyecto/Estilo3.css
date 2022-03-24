@@ -1,0 +1,194 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Body1 {
+    background: #67e6dc;
+}
+
+.Header1 {
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid white;
+    background: #17c0eb;
+}
+
+.Header1 h1 {
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid white;
+    background: #18dcff;
+    display: inline-flex;
+    font-family: Times New Roman', Times, serif;
+
+}
+
+.Header1 h2 {
+    padding: 10px;
+    margin: 15px;
+    border: 2px solid white;
+    background: #18dcff;
+}
+
+.Header1 time {
+    padding: 10px;
+    margin: 15px;
+    border: 2px solid white;
+    background: #18dcff;
+}
+
+.Nav1 {
+    display: inline-block;
+    margin: 15px;
+    border: 2px solid white;
+    background: #7efff5;
+
+}
+
+.Nav1 ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    margin: 0px 62px;
+}
+
+.Nav1 ul li a {
+    color: black;
+
+}
+
+.A1 {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid white;
+}
+
+.A1 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+
+}
+
+.A1 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.S1 {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 15px;
+}
+
+.A1 .S1 img {
+    align-content: center;
+}
+
+.F1 {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 15px;
+}
+
+.F1 address a {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 15px;
+    color: black;
+}
+
+.F1 footer {
+    border: 2px solid white;
+    padding: 10px;
+    margin: 15px;
+    background: #3d3d3d;
+    color: #7efff5;
+}
+
+.Body2 .Header2 {
+    display: block;
+}
+
+.Body2 {
+    background: #218c74;
+}
+
+.Header2 {
+    background: #227093;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Header2 h1 {
+    background: #33d9b2;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Header2 h2 {
+    background: #33d9b2;
+    border: 2px solid white;
+    padding: 20px;
+    margin: 15px;
+}
+
+.Header2 time {
+    background: #33d9b2;
+    border: 2px solid white;
+    padding: 5px;
+    margin: 15px;
+}
+
+.A2 {
+    padding: 20px;
+    margin: 20px;
+    background: #d2dae2;
+}
+
+.A2 .S2 h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: larger;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+    background: #34e7e4;
+}
+
+.A2 .S2 .T1 {
+    border: 2px solid;
+    border-color: #f5f6fa;
+    background: #2f3640;
+    color: white;
+}
+
+.A2 .S2 .T1 td {
+    border: 2px solid #f5f6fa;
+    padding: 10px;
+    margin: 10px;
+}
+
+.F2 {
+    border: 2px solid black;
+    margin: 25px;
+    padding: 20px;
+    background: #34e7e4;
+}
+
+.F2 address a {
+    margin: 25px;
+    color: white;
+    background: #1e272e;
+    padding: 15px;
+}
+
+.F2 footer {
+
+    margin: 25px;
+    background: #1e272e;
+    color: white;
+    padding: 10px;
+}
